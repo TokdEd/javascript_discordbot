@@ -1,0 +1,18 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2",
+    "node-schedule": "^2.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
