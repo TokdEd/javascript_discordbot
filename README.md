@@ -16,7 +16,7 @@
 
 1. **克隆專案代碼**：
     ```bash
-    git clone https://github.com/你的用戶名/discord-finance-bot.git
+    git clone https://github.com/TokdEd/javascript_discordbot.git
     cd discord-finance-bot
     ```
 
